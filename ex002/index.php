@@ -15,3 +15,6 @@
     ?>
 </body>
 </html>
+
+<a href="mailto:dr.zaiafilho@outlook.com.br">dr.zaiafilho@outlook.com.br</a>
+
